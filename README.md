@@ -31,4 +31,4 @@ Contributors should read the installation section.
 This application tests the reducers. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
+If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/iamjakes.
